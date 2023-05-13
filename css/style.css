@@ -70,7 +70,8 @@ a:hover {
 }
 
 #header .logo img {
-  max-height: 40px;
+  height: 40px;
+  width: auto;
 }
 
 /* --- Navigation Menu --- */
