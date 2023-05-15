@@ -245,8 +245,8 @@ a:hover {
 }
 
 .c-img {
-  width: auto;
-  height: 100%;
+  width: 100%;
+  height: auto;
 }
 
 .c-prev, .c-next {
